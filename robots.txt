@@ -1,0 +1,12 @@
+user-agent:Yandex
+disallow: /admin
+disallow: *?page=
+sitemap: https://mqx1.github.io/sitemap.xml
+user-agent:googlebot
+disallow: /admin
+disallow: *?page=
+sitemap: https://mqx1.github.io/sitemap.xml
+user-agent:*
+disallow: /admin
+disallow: *?page=
+sitemap: https://mqx1.github.io/sitemap.xml
