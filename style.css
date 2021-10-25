@@ -1,12 +1,17 @@
 body {
 background: #f3f2f3;
 color: #000000;
+font-family: Trebuchet MS, Arial, Times New Roman;
+font-size: 22px;
 background-image: url(11.jpg);
 background-repeat: repeat;
 background-size: cover;
-font-family: Trebuchet MS, Arial, Times New Roman;
-font-size: 22px;
-
+}
+h1 {
+      font-size: 30px;
+}
+h2 {
+      font-size: 25px;
 }
 #wrapper {
       background: #FFFFFF;
